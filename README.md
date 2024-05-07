@@ -10,6 +10,8 @@
 
 - Use GoLang PCAP
 
+- Note that you may not have operation permission for the network adapter on the Windows11 operating system, suggest Linux
+
 ```go
 go run main.go {domain}
 ```
